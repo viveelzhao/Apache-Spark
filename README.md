@@ -1,6 +1,6 @@
 # Apache-Spark
 
-This folder contains assignments I accomplished for learning Apache Spark.
+This folder contains some of the assignments I accomplished for learning Apache Spark.
 
 Introduction to Apache Spark
 https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x
